@@ -1,8 +1,6 @@
 # lidar_ce30_driver_matlab
 
-这是为面阵激光雷达ce30-d而开发的驱动代码，采用matlab的m语言，可直接显示点云图、深度图，处理速度约30fps。
-
-作者：王宇豪@ifr（博远楼313）
+面阵激光雷达ce30-d的驱动代码，可实时可视化点云图、深度图
 
 ![](https://github.com/wyhlaowang/lidar_ce30_driver_matlab/blob/master/oopProject/doc/Snipaste_2019-12-20_14-55-55.png)
 
